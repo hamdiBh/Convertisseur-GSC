@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Convertisseur</string>
+    <string name="action_settings">Settings</string>
+    <string name="text1">Montant à convertir</string>
+    <string name="tnd_eur">De Dinar vers Euro</string>
+    <string name="eur_tnd">De Euro Vers Dinar</string>
+    <string name="btnTxt">Convertir</string>
+</resources>
